@@ -12,6 +12,6 @@
 |6|2026-07-21 00:34|FLF|注册成功 Registered Successfully ⭕️|
 ||2026-07|~~Unfinished Piece~~|未付款 Unpaid ❌️|
 ||2026-07|~~World Gaming~~|未付款 Unpaid ❌️|
-||2026-07|~~Elysian Vanguards~~|未付款 Unpaid ❌️|
+||2026-07|~~Top Player~~|未付款 Unpaid ❌️|
 |7|2026-07-22 17:49|FSG.YXG|注册成功 Registered Successfully ⭕️|
 |8|2026-07-22 18:50|HangXieYiQi YingYingGouGou|注册成功 Registered Successfully ⭕️|
