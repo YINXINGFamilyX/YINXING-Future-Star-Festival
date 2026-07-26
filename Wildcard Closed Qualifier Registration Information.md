@@ -16,7 +16,7 @@
 |7|2026-07-22 17:49|FSG.YXG|⭕️ 注册成功 Registration Confirmed|
 |8|2026-07-22 18:50|HangXieYiQi YingYingGouGou|⭕️ 注册成功 Registration Confirmed|
 ||2026-07|~~Tianjin Jinmen Mouse~~|未付款 Payment Overdue ❌️|
-||2026-07|Tianjin E9 Esports||
+||2026-07|~~Tianjin E9 Esports~~|未付款 Payment Overdue ❌️|
 |9||||
 |10||||
 |11||||
