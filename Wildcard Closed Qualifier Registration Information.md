@@ -78,6 +78,6 @@
 
 > Thank you for taking the time to read this document. We wish you an enjoyable tournament, a wonderful day, and every success in achieving your goals.
 
-> Last updated: July 25, 2026
+> Last updated: July 26, 2026
 
 > Editor: YINXING
