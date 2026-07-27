@@ -18,7 +18,7 @@
 ||2026-07|~~Tianjin Jinmen Mouse~~|未付款 Payment Overdue ❌️|
 ||2026-07|~~Tianjin E9 Esports~~|未付款 Payment Overdue ❌️|
 |9|2026-07-27 00:26|Rebirth Clan|⭕️ 注册成功 Registration Confirmed|
-|10||||
+|10|2026-07-27 22:30|TeamReMake|⭕️ 注册成功 Registration Confirmed|
 |11||||
 |12||||
 |13||||
