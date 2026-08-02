@@ -19,10 +19,10 @@
 ||2026-07|~~Tianjin E9 Esports~~|未付款 Payment Overdue ❌️|
 |9|2026-07-27 00:26|Rebirth Clan|⭕️ 注册成功 Registration Confirmed|
 |10|2026-07-27 22:30|TeamReMake|⭕️ 注册成功 Registration Confirmed|
-|11||||
-|12||||
-|13||||
-|14||||
+|11||?|⭕️ 注册成功 Registration Confirmed|
+|12||?|⭕️ 注册成功 Registration Confirmed|
+|13||?|⭕️ 注册成功 Registration Confirmed|
+|14|2026-08-02 14:40|Unfinished Piece|⭕️ 注册成功 Registration Confirmed|
 |15||||
 |16||||
 |17||||
