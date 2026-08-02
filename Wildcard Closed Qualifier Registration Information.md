@@ -19,9 +19,9 @@
 ||2026-07|~~Tianjin E9 Esports~~|未付款 Payment Overdue ❌️|
 |9|2026-07-27 00:26|Rebirth Clan|⭕️ 注册成功 Registration Confirmed|
 |10|2026-07-27 22:30|TeamReMake|⭕️ 注册成功 Registration Confirmed|
-|11||?|⭕️ 注册成功 Registration Confirmed|
-|12||?|⭕️ 注册成功 Registration Confirmed|
-|13||?|⭕️ 注册成功 Registration Confirmed|
+|11|2026-08-01 23:21|PPAP|⭕️ 注册成功 Registration Confirmed|
+|12|2026-08-01 23:57|NN|⭕️ 注册成功 Registration Confirmed|
+|13|2026-08-02 00:23|G8 Esports|⭕️ 注册成功 Registration Confirmed|
 |14|2026-08-02 14:40|Unfinished Piece|⭕️ 注册成功 Registration Confirmed|
 |15||||
 |16||||
@@ -77,7 +77,5 @@
 ---
 
 > Thank you for taking the time to read this document. We wish you an enjoyable tournament, a wonderful day, and every success in achieving your goals.
-
-> Last updated: July 27, 2026
 
 > Editor: YINXING
