@@ -1,78 +1,28 @@
 |序号 Number|注册时间 Registration Time (Beijing Time)|队伍 Team|注册状态 Registration Status|
 |:-------------:|:----------:|:---------:|:-----------------:|
-|1|2026-07-17 14:37|YOUNG MAN GO DIE|⭕️ 注册成功 Registration Confirmed|
+|~~1~~|2026-07-17 14:37|~~YOUNG MAN GO DIE~~|Force Majeure Refund (2026-08-05) ✍️|
 ||2026-07|~~K9 Gaming~~|未付款 Payment Overdue ❌️|
 ||2026-07|~~FSG.YMGD~~|未付款 Payment Overdue ❌️|
 ||2026-07|~~SONAMGEN Esports~~|未付款 Payment Overdue ❌️|
 ||2026-07|~~One heart~~|未付款 Payment Overdue ❌️|
-|2|2026-07-20 20:41|Sekinlo|⭕️ 注册成功 Registration Confirmed|
-|3|2026-07-20 21:42|DQZS|⭕️ 注册成功 Registration Confirmed|
-|4|2026-07-20 22:43|Dream Fire|⭕️ 注册成功 Registration Confirmed|
-|5|2026-07-20 23:33|WuTiao Qu|⭕️ 注册成功 Registration Confirmed|
-|6|2026-07-21 00:34|FLF|⭕️ 注册成功 Registration Confirmed|
+|~~2~~|2026-07-20 20:41|~~Sekinlo~~|Force Majeure Refund (2026-08-05) ✍️|
+|~~3~~|2026-07-20 21:42|~~DQZS~~|Force Majeure Refund (2026-08-05) ✍️|
+|~~4~~|2026-07-20 22:43|~~Dream Fire~~|Force Majeure Refund (2026-08-05) ✍️|
+|~~5~~|2026-07-20 23:33|~~WuTiao Qu~~|Force Majeure Refund (2026-08-05) ✍️|
+|~~6~~|2026-07-21 00:34|~~FLF~~|Force Majeure Refund (2026-08-05) ✍️|
 ||2026-07|~~Unfinished Piece~~|未付款 Payment Overdue ❌️|
 ||2026-07|~~World Gaming~~|未付款 Payment Overdue ❌️|
 ||2026-07|~~Top Player~~|未付款 Payment Overdue ❌️|
-|7|2026-07-22 17:49|FSG.YXG|⭕️ 注册成功 Registration Confirmed|
-|8|2026-07-22 18:50|HangXieYiQi YingYingGouGou|⭕️ 注册成功 Registration Confirmed|
+|~~7~~|2026-07-22 17:49|~~FSG.YXG~~|Force Majeure Refund (2026-08-05) ✍️|
+|~~8~~|2026-07-22 18:50|~~HangXieYiQi YingYingGouGou~~|Force Majeure Refund (2026-08-05) ✍️|
 ||2026-07|~~Tianjin Jinmen Mouse~~|未付款 Payment Overdue ❌️|
 ||2026-07|~~Tianjin E9 Esports~~|未付款 Payment Overdue ❌️|
-|9|2026-07-27 00:26|Rebirth Clan|⭕️ 注册成功 Registration Confirmed|
-|10|2026-07-27 22:30|TeamReMake|⭕️ 注册成功 Registration Confirmed|
-|11|2026-08-01 23:21|PPAP|⭕️ 注册成功 Registration Confirmed|
-|12|2026-08-01 23:57|NN|⭕️ 注册成功 Registration Confirmed|
-|13|2026-08-02 00:23|G8 Esports|⭕️ 注册成功 Registration Confirmed|
-|14|2026-08-02 14:40|Unfinished Piece|⭕️ 注册成功 Registration Confirmed|
-|15||||
-|16||||
-|17||||
-|18||||
-|19||||
-|20||||
-|21||||
-|22||||
-|23||||
-|24||||
-|25||||
-|26||||
-|27||||
-|28||||
-|29||||
-|30||||
-|31||||
-|32||||
-|33||||
-|34||||
-|35||||
-|36||||
-|37||||
-|38||||
-|39||||
-|40||||
-|41||||
-|42||||
-|43||||
-|44||||
-|45||||
-|46||||
-|47||||
-|48||||
-|49||||
-|50||||
-|51||||
-|52||||
-|53||||
-|54||||
-|55||||
-|56||||
-|57||||
-|58||||
-|59||||
-|60||||
-|61||||
-|62||||
-|63||||
-|64||||
+|~~9~~|2026-07-27 00:26|~~Rebirth Clan~~|Force Majeure Refund (2026-08-05) ✍️|
+|~~10~~|2026-07-27 22:30|~~TeamReMake~~|Force Majeure Refund (2026-08-05) ✍️|
+|~~11~~|2026-08-01 23:21|~~PPAP~~|Force Majeure Refund (2026-08-05) ✍️|
+|~~12~~|2026-08-01 23:57|~~NN~~|Force Majeure Refund (2026-08-05) ✍️|
+|~~13~~|2026-08-02 00:23|~~G8 Esports~~|Force Majeure Refund (2026-08-05) ✍️|
+|~~14~~|2026-08-02 14:40|~~Unfinished Piece~~|Force Majeure Refund (2026-08-05) ✍️|
 
 ---
 
