@@ -1,1 +1,1 @@
-## YINXING x Future Star Festival (银杏x明日之星嘉年华)
+## YINXING Future Star Festival (银杏明日之星嘉年华)
