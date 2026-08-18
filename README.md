@@ -1,1 +1,1 @@
-## YINXING Future Star Festival (银杏明日之星嘉年华)
+## FAMILYX ESPORTS YINXING FUTURE STAR FESTIVAL
