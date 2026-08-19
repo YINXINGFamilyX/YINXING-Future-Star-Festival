@@ -366,3 +366,9 @@ FAMILYX ESPORTS 将继续以公平、审慎、基于证据和符合程序的方�
 **天津爱勾勒文化传播有限公司**
 
 **2026 年 8 月 19 日**
+
+---
+
+> Thank you for taking the time to read this document. We wish you an enjoyable tournament, a wonderful day, and every success in achieving your goals.
+
+> Editor: YINXING
