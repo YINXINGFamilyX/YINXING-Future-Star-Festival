@@ -79,10 +79,10 @@ No team will receive direct entry into the Offline Playoffs.
 
 ### Match Schedule
 
-- Round of 64: BO1 — 12:00
-- Round of 32: BO1 — 14:00
-- Round of 16: BO1 — 16:00
-- Qualification Matches (Round of 8): BO3 — 18:00
+- Round of 64: BO1 — 10:30
+- Round of 32: BO1 — 11:45
+- Round of 16: BO1 — 13:00
+- Qualification Matches (Round of 8): BO3 — 14:15
 
 ---
 
@@ -97,10 +97,10 @@ No team will receive direct entry into the Offline Playoffs.
 
 ### Match Schedule
 
-- Round of 64: BO1 — 12:00
-- Round of 32: BO1 — 14:00
-- Round of 16: BO1 — 16:00
-- Qualification Matches (Round of 8): BO3 — 18:00
+- Round of 64: BO1 — 10:30
+- Round of 32: BO1 — 11:45
+- Round of 16: BO1 — 13:00
+- Qualification Matches (Round of 8): BO3 — 14:15
 
 ---
 
