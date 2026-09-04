@@ -8,7 +8,7 @@ The following personnel are responsible for the official broadcast, on-air talen
 
 | Role              | Nickname  | Romanized Name | Country / Region |
 | ----------------- | --------- | -------------- | ---------------- |
-| Stage Host        | TBA       | TBA          | TBA              |
+| Stage Host        | YINXING   | Jin Fengning | Mainland China   |
 | Interviewer       | TBA       | TBA          | TBA              |
 | Sideline Reporter | TBA       | TBA          | TBA              |
 | Commentator       | TBA       | TBA          | TBA              |
