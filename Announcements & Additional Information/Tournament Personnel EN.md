@@ -8,7 +8,7 @@ The following personnel are responsible for the official broadcast, on-air talen
 
 | Role              | Nickname  | Romanized Name | Country / Region |
 | ----------------- | --------- | -------------- | ---------------- |
-| Stage Host        | YINXING   | Jin Fengning | Mainland China   |
+| Stage Host        | YINXING   | Ginkgo Jin Fengning | Mainland China   |
 | Interviewer       | TBA       | TBA          | TBA              |
 | Sideline Reporter | TBA       | TBA          | TBA              |
 | Commentator       | TBA       | TBA          | TBA              |
@@ -24,7 +24,7 @@ The following personnel are responsible for the official broadcast, on-air talen
 | Producer        | 1v7        | Zhang Yirong | Mainland China   |
 | Producer        | Guyue Bird | Zhang Ruixi  | Mainland China   |
 | Producer        | Nian7LAA   | Wang Caspian | Mainland China   |
-| Producer        | YINXING    | Jin Fengning | Mainland China   |
+| Producer        | YINXING    | Ginkgo Jin Fengning | Mainland China   |
 | Observer        | BroWei     | Du Jiawei    | Mainland China   |
 | Observer        | JYG        | Jia Boyuan   | Mainland China   |
 | Observer        | suozhang87 | Qu Ethan     | Mainland China   |
