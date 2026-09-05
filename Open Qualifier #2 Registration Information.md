@@ -4,7 +4,7 @@
 
 All registration information listed on this page is based on records from the official 5EPlay tournament administration backend.
 
-|序号 Number|注册时间 Registration Time (Beijing Time)|队伍 Team|注册状态 Registration Status|
+|序号 Number|注册时间 Registration Date (Beijing Time)|队伍 Team|注册状态 Registration Status|
 |:-------------:|:----------:|:---------:|:-----------------:|
 |1|2026-09-02|Vortex Esports|⭕️ Free Registration Confirmed|
 |2|2026-09-02|CSG|⭕️ Free Registration Confirmed|
