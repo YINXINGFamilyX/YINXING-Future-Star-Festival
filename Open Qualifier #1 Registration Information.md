@@ -1,3 +1,9 @@
+# Open Qualifier #1 Registration Information
+
+本页面所列注册信息均来源于5EPlay官方赛事操作后台的记录数据。
+
+All registration information listed on this page is based on records from the official 5EPlay tournament administration backend.
+
 |序号 Number|注册时间 Registration Time (Beijing Time)|队伍 Team|注册状态 Registration Status|
 |:-------------:|:----------:|:---------:|:-----------------:|
 |1|2026-09-02|HwD|⭕️ Free Registration Confirmed|
